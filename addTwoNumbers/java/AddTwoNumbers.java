@@ -1,4 +1,4 @@
-package addTwoNumbers;
+package addTwoNumbers.java;
 
 /*
     Definition for singly-linked list given.
